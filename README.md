@@ -14,3 +14,7 @@ The resulting PCB is:
 
 The multi-PCB frame is:
 ![lightThermo_panel](/lightThermo_panel/lightThermo_panel.jpg "multi-PCB of carrier board for lightThermo")
+
+I printed and assembled some samples, here the PCB (without the PICO and the I2C devices):
+![lighThermo](/lightThermo/am002-pcba.jpg "PCB for carrier board lightThermo")
+
